@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Method_first.java&apos; to &apos;NPTL_JAVA/src/week3_Assigmnet_program_ques&apos;&#x0D;&#x0A;- Original project: &apos;NPTL_JAVA&apos;&#x0D;&#x0A;- Destination element: &apos;NPTL_JAVA/src/week3_Assigmnet_program_ques&apos;&#x0D;&#x0A;- Original element: &apos;week3_Assigmnet_program.Method_first.java&apos;" description="Copy compilation unit" destination="/src&lt;week3_Assigmnet_program_ques" element1="/src&lt;week3_Assigmnet_program{Method_first.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1676476718317" units="1" version="1.0"/>
+</session>

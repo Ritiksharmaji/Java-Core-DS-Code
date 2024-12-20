@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+D:\next wave 4.0\java\Java-Code\JAVA-CORE-DS-CODE\JavaCoreCodeWithDS\.metadata\.plugins\org.eclipse.jdt.core
+4206648847.index
+1865797976.index
+1063223932.index
+511038103.index
+2120003120.index
+1160542971.index
+2947382037.index
+2506192191.index
+3020277890.index
+2744764986.index
+3413270776.index

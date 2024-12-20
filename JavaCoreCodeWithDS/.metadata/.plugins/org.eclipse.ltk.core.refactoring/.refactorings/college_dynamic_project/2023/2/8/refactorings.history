@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;college_dynamic_project&apos;&#x0D;&#x0A;- Original project: &apos;college_dynamic_project&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     NewFiles.css&#x0D;&#x0A;     NewFiles.jsp&#x0D;&#x0A;     responses.jsp&#x0D;&#x0A;     responsess.jsp" description="Delete elements" element1="src/main/webapp/WEB-INF/classes/NewFiles.css" element2="src/main/webapp/WEB-INF/classes/NewFiles.jsp" element3="src/main/webapp/WEB-INF/classes/responses.jsp" element4="src/main/webapp/WEB-INF/classes/responsess.jsp" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1676951967832" subPackages="false" version="1.0"/>
+</session>

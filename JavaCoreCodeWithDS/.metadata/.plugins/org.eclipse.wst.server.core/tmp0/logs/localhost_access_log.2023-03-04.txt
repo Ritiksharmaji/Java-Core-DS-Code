@@ -1,0 +1,8 @@
+127.0.0.1 - - [04/Mar/2023:13:00:02 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:13:00:03 +0530] "GET /college_dynamic_project/response.jsp HTTP/1.1" 200 376
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:13:00:03 +0530] "GET /college_dynamic_project/NewFile.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:13:00:03 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [04/Mar/2023:13:04:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:13:04:33 +0530] "GET /college_dynamic_project/NewFile.jsp HTTP/1.1" 200 844
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:13:04:38 +0530] "POST /college_dynamic_project/response.jsp HTTP/1.1" 200 563
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:13:04:55 +0530] "POST /college_dynamic_project/response.jsp HTTP/1.1" 200 563

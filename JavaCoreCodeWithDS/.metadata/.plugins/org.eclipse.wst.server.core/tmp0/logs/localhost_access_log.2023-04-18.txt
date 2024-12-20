@@ -1,0 +1,5 @@
+127.0.0.1 - - [18/Apr/2023:08:06:21 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:08:06:22 +0530] "GET /college_dynamic_project/NewFile.jsp HTTP/1.1" 200 844
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:08:06:22 +0530] "GET /college_dynamic_project/NewFile.css HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:08:06:25 +0530] "POST /college_dynamic_project/response.jsp HTTP/1.1" 200 562
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:08:06:31 +0530] "POST /college_dynamic_project/response.jsp HTTP/1.1" 200 563

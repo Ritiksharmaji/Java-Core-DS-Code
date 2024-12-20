@@ -1,0 +1,12 @@
+127.0.0.1 - - [15/Feb/2023:00:24:32 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:00:24:33 +0530] "GET /dynamic_two/index.jsp HTTP/1.1" 200 848
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:00:24:33 +0530] "GET /dynamic_two/carshowroom.css HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:00:25:23 +0530] "GET /dynamic_two/index.jsp HTTP/1.1" 200 849
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:00:25:24 +0530] "GET /dynamic_two/carshowroom2.css HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:00:25:30 +0530] "POST /dynamic_two/response.jsp HTTP/1.1" 500 2568
+127.0.0.1 - - [15/Feb/2023:04:21:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:04:21:08 +0530] "GET /dynamic_two/index.jsp HTTP/1.1" 200 849
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:04:21:09 +0530] "GET /dynamic_two/carshowroom2.css HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:14:00:58 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:14:00:58 +0530] "GET /dynamic_two/Vignan HTTP/1.1" 200 48
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:14:01:32 +0530] "GET /dynamic_two/Firest_servlet HTTP/1.1" 200 -

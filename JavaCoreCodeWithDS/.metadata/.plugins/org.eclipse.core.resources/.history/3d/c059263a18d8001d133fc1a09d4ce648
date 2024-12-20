@@ -1,0 +1,25 @@
+package sai;
+import java.sql.*;
+public class Table_create {
+	static final String url="jdbc:mysql://localhost:3306/collage";
+	static final String username="root";
+	static final String password="Ritikshrma620@";
+	public static void main(String[] args) {
+	//Class.forName("com.mysql.cj.jdbc.Driver");
+	try {
+		Connection con=DriverManager.getConnection(url,username,password);
+		Statement st=con.createStatement();
+		String table="create table Money"+
+		"(id int ,"+"name varchar(30))";
+		st.executeUpdate(table);
+		System.out.println("table is created");
+		st.close();
+	}
+		catch(Exception e)
+	{
+			System.out.println("jsgdfhkj");
+	}
+
+	}
+
+}
