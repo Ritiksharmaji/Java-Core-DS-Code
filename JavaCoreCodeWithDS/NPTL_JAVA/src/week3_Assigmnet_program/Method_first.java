@@ -13,7 +13,7 @@ class girl extends hello{
 		
 	}  */
 	
-	static void display()
+	void display()
 	{
 		
 	}
